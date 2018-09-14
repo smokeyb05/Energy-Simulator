@@ -1,0 +1,13 @@
+Energy Monitor Simulator Readme: Laurence Bosier
+
+This project will be a more advanced project that shares some common features of the first project you will have done, in that they are both related to energy usage. However, this project represents more of an in-depth approach to some of the core technologies we use at CRITICAL, and are used in the wider industry. 
+
+The project itself is to generate an application, written in Python or whichever language you prefer, that will act as a simulation of a standard in-home energy display. You may have seen advertisements for these, but they are something along the lines of this:
+
+They highlight to energy users how much energy their appliances are using, and how much that will cost them based on their current supplier and tariffs. The application you produce as part of this project will have two windows; One will be a floor plan of a typical house, with tabbed pages representing different floors, each containing a set of appliances that will have a certain energy rating specific to them. The appliances can be either 'On' or 'Off', and will be markable as running for a certain number of hours in any given day. The second window will mock up an in-home display, which will respond to changes in the first window and show the user their current usages and costs. 
+
+This will be a time-aware simulation, meaning that the system will allow users to decide which appliances are running on each day, then store this data in some kind of persistent storage. This can be up to you, but possible solutions include using CSV files or a SQLite database. The system will be able to 'write' out a file, which will contain the usage data that it currently has stored in memory. This will be an extension of the 'single house' file layout used in the previous project, but with more columns used to store additional data.
+
+This is visually a much more complex project, and will need you to investigate how to visually represent each of the windows laid out above. You will also need to handle updates between the two windows, so that changes made to the energy usage on the floor-plan view will cause updates in the in-home display. 
+
+This is overall a much more challenging project, so you will need to think carefully about your approach to development, and you may find it useful to complete a plan setting out how you will arrange each of the components of the solution. The sub-tasks for this project represent the steps to be followed to complete each part of the task.

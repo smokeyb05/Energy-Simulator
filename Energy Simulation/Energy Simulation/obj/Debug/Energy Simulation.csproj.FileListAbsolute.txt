@@ -1,0 +1,13 @@
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\bin\Debug\Energy Simulation.exe.config
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\bin\Debug\Energy Simulation.exe
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\bin\Debug\Energy Simulation.pdb
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.csprojAssemblyReference.cache
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy_Simulation.Properties.Resources.resources
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.csproj.GenerateResource.cache
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.csproj.CoreCompileInputs.cache
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.exe
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.pdb
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy_Simulation.Monitor.resources
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy_Simulation.Form1.resources
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\bin\Debug\Control.Draggable.dll
+C:\Users\l-bosier\source\repos\Energy Simulation\Energy Simulation\obj\Debug\Energy Simulation.csproj.CopyComplete

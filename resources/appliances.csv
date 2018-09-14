@@ -1,0 +1,19 @@
+Appliance Type, Fuel Type, Usage (Watts)
+LightBulb, Electricity, 60
+Shower, Electricity, 8000
+Oven, Gas, 1000
+TV, Electricity, 250
+Computer, Electricity, 300
+WashingMachine, Electricity, 500
+Dryer, Electricity, 3000
+Radio, Electricity, 5
+Boiler, Gas, 1000
+ImmersionHeater, Electricity, 3000
+Heater, Electricity, 2000
+Fan, Electricity, 80
+Microwave, Electricity, 900
+Dishwasher, Electricity, 1300
+Kettle, Electricity, 1800
+Fridge, Electricity, 350
+GameConsole, Electricity, 150
+
